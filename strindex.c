@@ -1,4 +1,4 @@
-/*Escriba una función strindex(s, t), la cual retorne la posición de la 
+/*Escriba una funciÃ³n strindex(s, t), la cual retorne la posiciÃ³n de la 
 ocurrencia mas a la derecha de t en s. Retorne -1 si no la encuentra. */ 
 #include<stdio.h>
 int strindex(char s[],char t[]);
