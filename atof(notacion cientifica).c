@@ -1,5 +1,5 @@
 /* Escriba un programa que reciba un string de la forma "123.45e-6"
- y devuelva su correspondiente número. */
+ y devuelva su correspondiente nÃºmero. */
 #include <stdio.h>
 #include <ctype.h>
 /*  ATOF Convierte una cadena a su valor numerico  */
