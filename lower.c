@@ -1,4 +1,4 @@
-/* Escriba una función lower, la cual convierte letras mayusculas a minusculas
+/* Escriba una funciÃ³n lower, la cual convierte letras mayusculas a minusculas
  usando una condicional. No usar if-else.*/
 #include <stdio.h>
 #define funcion (c>='A' && c<='Z'? c+ 'a'-'A':c) 
